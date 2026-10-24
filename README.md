@@ -50,11 +50,3 @@ It is built for **casual players** who enjoy tap-to-earn games and for the **Tel
 ## Links
 
 - Play: https://stenbit.ru
-
-## Related projects
-
-Related tools:
-
-- [Telegram Mini App Game — smmtake](https://github.com/DeFiTON/telegram-miniapp-tap-game-smmtake)
-- [Telegram Mini App Game — likfool](https://github.com/DeFiTON/telegram-miniapp-tap-game-likfool)
-- [Telegram Mini App Game — terminus](https://github.com/DeFiTON/telegram-miniapp-tap-game-terminus)
